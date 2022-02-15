@@ -2,7 +2,7 @@
 It's a simple script that uses request library to get json file form unofficial SteamAPI,after that json is passed and graph is plotted.
 
 
-<p  style="center">
+<p  align="center">
      <img src="Figure_1.png" alt="Girl in a jacket" width="500" height="400"> 
 </p>
 
